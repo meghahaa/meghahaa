@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Megha Hebbar and I'm a 3rd year CSE student, from IIITDM Kancheepuram.</p>
+<p align="left">My name is Megha Hebbar and I'm a final year CSE student, from IIITDM Kancheepuram.</p>
 
 ###
 
